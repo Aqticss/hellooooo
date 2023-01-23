@@ -21,7 +21,6 @@ def check(id):
         else:
             return False
     return True function call_initiated()
-add_call_ status (* ( Calling % from % %s", data.to, data.from, data.from _name):
 function call machine detection ended()
 add call status(" © voicemail detected!");
 }
